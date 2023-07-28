@@ -6,6 +6,10 @@
 ### Story:
   I've worked with finantial business for years, but I have changed to technology in 2019. I started to work on Data Analyst and after that, I went to BI using PowerBI and Azure too. In 2022, I got a position working on Data Governance Analyst. So, I have been working with data since 2019. Nowadays, I'm senior Data Governance Analyst creating RPA's and automation softwares with python and structuring data pipelines at a big national company.
 
+
+ I worked using dataflow, airflow, SodaDQ and another technologies too. Many times, I used to PySpark to big data process.
+
+
 #### Technologies:
 <div style="dispaly: inline_block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"/>
